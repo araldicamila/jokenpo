@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jokenpo/static/css/main.c955357e.chunk.css",
+    "main.js": "/jokenpo/static/js/main.05852dbf.chunk.js",
+    "main.js.map": "/jokenpo/static/js/main.05852dbf.chunk.js.map",
+    "runtime-main.js": "/jokenpo/static/js/runtime-main.f17c3378.js",
+    "runtime-main.js.map": "/jokenpo/static/js/runtime-main.f17c3378.js.map",
+    "static/css/2.d408779a.chunk.css": "/jokenpo/static/css/2.d408779a.chunk.css",
+    "static/js/2.f207fc2c.chunk.js": "/jokenpo/static/js/2.f207fc2c.chunk.js",
+    "static/js/2.f207fc2c.chunk.js.map": "/jokenpo/static/js/2.f207fc2c.chunk.js.map",
+    "static/js/3.dea8a888.chunk.js": "/jokenpo/static/js/3.dea8a888.chunk.js",
+    "static/js/3.dea8a888.chunk.js.map": "/jokenpo/static/js/3.dea8a888.chunk.js.map",
+    "index.html": "/jokenpo/index.html",
+    "static/css/2.d408779a.chunk.css.map": "/jokenpo/static/css/2.d408779a.chunk.css.map",
+    "static/css/main.c955357e.chunk.css.map": "/jokenpo/static/css/main.c955357e.chunk.css.map",
+    "static/js/2.f207fc2c.chunk.js.LICENSE.txt": "/jokenpo/static/js/2.f207fc2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f17c3378.js",
+    "static/css/2.d408779a.chunk.css",
+    "static/js/2.f207fc2c.chunk.js",
+    "static/css/main.c955357e.chunk.css",
+    "static/js/main.05852dbf.chunk.js"
+  ]
+}
